@@ -230,8 +230,7 @@ ISC
 
 ## 👨‍💻 Author
 
-Built with ❤️ for Kerala's gig-less economy
-
+Built with ❤️
 ---
 
 **Note**: This project uses Google Gemini AI as the core technology for intelligent task verification and matching. Make sure to obtain a valid API key before running the application.
